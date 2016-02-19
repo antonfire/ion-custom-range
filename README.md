@@ -30,7 +30,12 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services', '
 ## Demo
 
 If you are seeing this on desktop (chrome) then enable Device Mode
+
 http://ion-custom-range.ask4kapil.xyz
+
+Sample app code:
+
+https://github.com/ask4kapil/range-slider
 
 ## Sample screens
 
