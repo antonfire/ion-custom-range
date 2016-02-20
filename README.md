@@ -37,6 +37,10 @@ Sample app code:
 
 https://github.com/ask4kapil/range-slider
 
+Blog
+
+http://ask4kapil.xyz/2016/02/20/ion-custom-range/
+
 ## Sample screens
 
 - Basic range: set min, max, value, tip(true/false) and step
